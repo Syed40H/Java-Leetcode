@@ -27,6 +27,18 @@ public class Datastructures_Algorithms {
         System.out.println(stack.search("GTA6"));
         System.out.println(stack);
 */
+        // ****************************************************************
+        // Queue = FIFO data structure. First-In Last Out
+        //          A collection designed for holding elements prior to proceeing
+        //          Linear data structure
+        //         add = enqueue, offer()
+        //         remove = dequeue, poll()
+        // ****************************************************************  
         
+
+
+
+
+
     }
 }
